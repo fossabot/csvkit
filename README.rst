@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fdssrt%2Fcsvkit.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fdssrt%2Fcsvkit?ref=badge_shield)
+
 .. image:: https://secure.travis-ci.org/wireservice/csvkit.png
     :target: https://travis-ci.org/wireservice/csvkit
     :alt: Build Status
@@ -37,3 +39,6 @@ Important links:
 * Documentation: http://csvkit.rtfd.org/
 * Schemas:       https://github.com/wireservice/ffs
 * Buildbot:      https://travis-ci.org/wireservice/csvkit
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fdssrt%2Fcsvkit.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fdssrt%2Fcsvkit?ref=badge_large)
